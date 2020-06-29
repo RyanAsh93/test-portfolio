@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <Navbar />
       <h1>Change Made </h1>
+      <p>this is a change i want to keep</p>
     </div>
   );
 }
